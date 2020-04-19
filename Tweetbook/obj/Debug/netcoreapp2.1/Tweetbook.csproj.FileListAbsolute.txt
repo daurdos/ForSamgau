@@ -1,0 +1,170 @@
+C:\Users\daurd\source\repos\Tweetbook\Tweetbook\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\daurd\source\repos\Tweetbook\Tweetbook\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\daurd\source\repos\Tweetbook\Tweetbook\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\daurd\source\repos\Tweetbook\Tweetbook\bin\Debug\netcoreapp2.1\Tweetbook.deps.json
+C:\Users\daurd\source\repos\Tweetbook\Tweetbook\bin\Debug\netcoreapp2.1\Tweetbook.runtimeconfig.json
+C:\Users\daurd\source\repos\Tweetbook\Tweetbook\bin\Debug\netcoreapp2.1\Tweetbook.runtimeconfig.dev.json
+C:\Users\daurd\source\repos\Tweetbook\Tweetbook\bin\Debug\netcoreapp2.1\Tweetbook.dll
+C:\Users\daurd\source\repos\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.1\Tweetbook.csprojAssemblyReference.cache
+C:\Users\daurd\source\repos\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.1\Tweetbook.RazorAssemblyInfo.cache
+C:\Users\daurd\source\repos\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.1\Tweetbook.RazorAssemblyInfo.cs
+C:\Users\daurd\source\repos\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.1\Tweetbook.AssemblyInfoInputs.cache
+C:\Users\daurd\source\repos\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.1\Tweetbook.AssemblyInfo.cs
+C:\Users\daurd\source\repos\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.1\Tweetbook.RazorTargetAssemblyInfo.cache
+C:\Users\daurd\source\repos\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.1\Tweetbook.genruntimeconfig.cache
+C:\Users\daurd\source\repos\Tweetbook\Tweetbook\bin\Debug\netcoreapp2.1\Tweetbook.pdb
+C:\Users\daurd\source\repos\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.1\Tweetbook.dll
+C:\Users\daurd\source\repos\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.1\Tweetbook.pdb
+C:\Users\daurd\source\repos\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.1\Tweetbook.csproj.CoreCompileInputs.cache
+C:\Users\daurd\source\repos\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\daurd\Downloads\YouTube\ASP NET Core Web API\Practice\05\Tweetbook\Tweetbook\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\daurd\Downloads\YouTube\ASP NET Core Web API\Practice\05\Tweetbook\Tweetbook\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\daurd\Downloads\YouTube\ASP NET Core Web API\Practice\05\Tweetbook\Tweetbook\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\daurd\Downloads\YouTube\ASP NET Core Web API\Practice\05\Tweetbook\Tweetbook\bin\Debug\netcoreapp2.1\Tweetbook.deps.json
+C:\Users\daurd\Downloads\YouTube\ASP NET Core Web API\Practice\05\Tweetbook\Tweetbook\bin\Debug\netcoreapp2.1\Tweetbook.runtimeconfig.json
+C:\Users\daurd\Downloads\YouTube\ASP NET Core Web API\Practice\05\Tweetbook\Tweetbook\bin\Debug\netcoreapp2.1\Tweetbook.runtimeconfig.dev.json
+C:\Users\daurd\Downloads\YouTube\ASP NET Core Web API\Practice\05\Tweetbook\Tweetbook\bin\Debug\netcoreapp2.1\Tweetbook.dll
+C:\Users\daurd\Downloads\YouTube\ASP NET Core Web API\Practice\05\Tweetbook\Tweetbook\bin\Debug\netcoreapp2.1\Tweetbook.pdb
+C:\Users\daurd\Downloads\YouTube\ASP NET Core Web API\Practice\05\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.1\Tweetbook.csproj.CoreCompileInputs.cache
+C:\Users\daurd\Downloads\YouTube\ASP NET Core Web API\Practice\05\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.1\Tweetbook.RazorAssemblyInfo.cache
+C:\Users\daurd\Downloads\YouTube\ASP NET Core Web API\Practice\05\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.1\Tweetbook.RazorAssemblyInfo.cs
+C:\Users\daurd\Downloads\YouTube\ASP NET Core Web API\Practice\05\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\daurd\Downloads\YouTube\ASP NET Core Web API\Practice\05\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.1\Tweetbook.AssemblyInfoInputs.cache
+C:\Users\daurd\Downloads\YouTube\ASP NET Core Web API\Practice\05\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.1\Tweetbook.AssemblyInfo.cs
+C:\Users\daurd\Downloads\YouTube\ASP NET Core Web API\Practice\05\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.1\Tweetbook.RazorTargetAssemblyInfo.cache
+C:\Users\daurd\Downloads\YouTube\ASP NET Core Web API\Practice\05\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.1\Tweetbook.dll
+C:\Users\daurd\Downloads\YouTube\ASP NET Core Web API\Practice\05\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.1\Tweetbook.pdb
+C:\Users\daurd\Downloads\YouTube\ASP NET Core Web API\Practice\05\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.1\Tweetbook.genruntimeconfig.cache
+C:\Users\daurd\Downloads\YouTube\ASP NET Core Web API\Practice\06\Tweetbook\Tweetbook\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\daurd\Downloads\YouTube\ASP NET Core Web API\Practice\06\Tweetbook\Tweetbook\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\daurd\Downloads\YouTube\ASP NET Core Web API\Practice\06\Tweetbook\Tweetbook\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\daurd\Downloads\YouTube\ASP NET Core Web API\Practice\06\Tweetbook\Tweetbook\bin\Debug\netcoreapp2.1\Tweetbook.deps.json
+C:\Users\daurd\Downloads\YouTube\ASP NET Core Web API\Practice\06\Tweetbook\Tweetbook\bin\Debug\netcoreapp2.1\Tweetbook.runtimeconfig.json
+C:\Users\daurd\Downloads\YouTube\ASP NET Core Web API\Practice\06\Tweetbook\Tweetbook\bin\Debug\netcoreapp2.1\Tweetbook.runtimeconfig.dev.json
+C:\Users\daurd\Downloads\YouTube\ASP NET Core Web API\Practice\06\Tweetbook\Tweetbook\bin\Debug\netcoreapp2.1\Tweetbook.dll
+C:\Users\daurd\Downloads\YouTube\ASP NET Core Web API\Practice\06\Tweetbook\Tweetbook\bin\Debug\netcoreapp2.1\Tweetbook.pdb
+C:\Users\daurd\Downloads\YouTube\ASP NET Core Web API\Practice\06\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.1\Tweetbook.csprojAssemblyReference.cache
+C:\Users\daurd\Downloads\YouTube\ASP NET Core Web API\Practice\06\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.1\Tweetbook.csproj.CoreCompileInputs.cache
+C:\Users\daurd\Downloads\YouTube\ASP NET Core Web API\Practice\06\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.1\Tweetbook.RazorAssemblyInfo.cache
+C:\Users\daurd\Downloads\YouTube\ASP NET Core Web API\Practice\06\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.1\Tweetbook.RazorAssemblyInfo.cs
+C:\Users\daurd\Downloads\YouTube\ASP NET Core Web API\Practice\06\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\daurd\Downloads\YouTube\ASP NET Core Web API\Practice\06\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.1\Tweetbook.AssemblyInfoInputs.cache
+C:\Users\daurd\Downloads\YouTube\ASP NET Core Web API\Practice\06\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.1\Tweetbook.AssemblyInfo.cs
+C:\Users\daurd\Downloads\YouTube\ASP NET Core Web API\Practice\06\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.1\Tweetbook.RazorTargetAssemblyInfo.cache
+C:\Users\daurd\Downloads\YouTube\ASP NET Core Web API\Practice\06\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.1\Tweetbook.dll
+C:\Users\daurd\Downloads\YouTube\ASP NET Core Web API\Practice\06\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.1\Tweetbook.pdb
+C:\Users\daurd\Downloads\YouTube\ASP NET Core Web API\Practice\06\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.1\Tweetbook.genruntimeconfig.cache
+C:\Users\daurd\Downloads\YouTube\ASP NET Core Web API\Practice\07\Tweetbook\Tweetbook\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\daurd\Downloads\YouTube\ASP NET Core Web API\Practice\07\Tweetbook\Tweetbook\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\daurd\Downloads\YouTube\ASP NET Core Web API\Practice\07\Tweetbook\Tweetbook\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\daurd\Downloads\YouTube\ASP NET Core Web API\Practice\07\Tweetbook\Tweetbook\bin\Debug\netcoreapp2.1\Tweetbook.deps.json
+C:\Users\daurd\Downloads\YouTube\ASP NET Core Web API\Practice\07\Tweetbook\Tweetbook\bin\Debug\netcoreapp2.1\Tweetbook.runtimeconfig.json
+C:\Users\daurd\Downloads\YouTube\ASP NET Core Web API\Practice\07\Tweetbook\Tweetbook\bin\Debug\netcoreapp2.1\Tweetbook.runtimeconfig.dev.json
+C:\Users\daurd\Downloads\YouTube\ASP NET Core Web API\Practice\07\Tweetbook\Tweetbook\bin\Debug\netcoreapp2.1\Tweetbook.dll
+C:\Users\daurd\Downloads\YouTube\ASP NET Core Web API\Practice\07\Tweetbook\Tweetbook\bin\Debug\netcoreapp2.1\Tweetbook.pdb
+C:\Users\daurd\Downloads\YouTube\ASP NET Core Web API\Practice\07\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.1\Tweetbook.csprojAssemblyReference.cache
+C:\Users\daurd\Downloads\YouTube\ASP NET Core Web API\Practice\07\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.1\Tweetbook.csproj.CoreCompileInputs.cache
+C:\Users\daurd\Downloads\YouTube\ASP NET Core Web API\Practice\07\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.1\Tweetbook.RazorAssemblyInfo.cache
+C:\Users\daurd\Downloads\YouTube\ASP NET Core Web API\Practice\07\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.1\Tweetbook.RazorAssemblyInfo.cs
+C:\Users\daurd\Downloads\YouTube\ASP NET Core Web API\Practice\07\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\daurd\Downloads\YouTube\ASP NET Core Web API\Practice\07\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.1\Tweetbook.AssemblyInfoInputs.cache
+C:\Users\daurd\Downloads\YouTube\ASP NET Core Web API\Practice\07\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.1\Tweetbook.AssemblyInfo.cs
+C:\Users\daurd\Downloads\YouTube\ASP NET Core Web API\Practice\07\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.1\Tweetbook.RazorTargetAssemblyInfo.cache
+C:\Users\daurd\Downloads\YouTube\ASP NET Core Web API\Practice\07\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.1\Tweetbook.dll
+C:\Users\daurd\Downloads\YouTube\ASP NET Core Web API\Practice\07\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.1\Tweetbook.pdb
+C:\Users\daurd\Downloads\YouTube\ASP NET Core Web API\Practice\07\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.1\Tweetbook.genruntimeconfig.cache
+C:\Users\daurd\Downloads\YouTube\ASP NET Core Web API\Practice\08\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.1\Tweetbook.csproj.CoreCompileInputs.cache
+C:\Users\daurd\Downloads\YouTube\ASP NET Core Web API\Practice\08\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.1\Tweetbook.RazorAssemblyInfo.cache
+C:\Users\daurd\Downloads\YouTube\ASP NET Core Web API\Practice\08\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.1\Tweetbook.RazorAssemblyInfo.cs
+C:\Users\daurd\Downloads\YouTube\ASP NET Core Web API\Practice\08\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\daurd\Downloads\YouTube\ASP NET Core Web API\Practice\08\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.1\Tweetbook.AssemblyInfoInputs.cache
+C:\Users\daurd\Downloads\YouTube\ASP NET Core Web API\Practice\08\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.1\Tweetbook.AssemblyInfo.cs
+C:\Users\daurd\Downloads\YouTube\ASP NET Core Web API\Practice\08\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.1\Tweetbook.dll
+C:\Users\daurd\Downloads\YouTube\ASP NET Core Web API\Practice\08\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.1\Tweetbook.pdb
+C:\Users\daurd\Downloads\YouTube\ASP NET Core Web API\Practice\08\Tweetbook\Tweetbook\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\daurd\Downloads\YouTube\ASP NET Core Web API\Practice\08\Tweetbook\Tweetbook\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\daurd\Downloads\YouTube\ASP NET Core Web API\Practice\08\Tweetbook\Tweetbook\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\daurd\Downloads\YouTube\ASP NET Core Web API\Practice\08\Tweetbook\Tweetbook\bin\Debug\netcoreapp2.1\Tweetbook.deps.json
+C:\Users\daurd\Downloads\YouTube\ASP NET Core Web API\Practice\08\Tweetbook\Tweetbook\bin\Debug\netcoreapp2.1\Tweetbook.runtimeconfig.json
+C:\Users\daurd\Downloads\YouTube\ASP NET Core Web API\Practice\08\Tweetbook\Tweetbook\bin\Debug\netcoreapp2.1\Tweetbook.runtimeconfig.dev.json
+C:\Users\daurd\Downloads\YouTube\ASP NET Core Web API\Practice\08\Tweetbook\Tweetbook\bin\Debug\netcoreapp2.1\Tweetbook.dll
+C:\Users\daurd\Downloads\YouTube\ASP NET Core Web API\Practice\08\Tweetbook\Tweetbook\bin\Debug\netcoreapp2.1\Tweetbook.pdb
+C:\Users\daurd\Downloads\YouTube\ASP NET Core Web API\Practice\08\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.1\Tweetbook.RazorTargetAssemblyInfo.cache
+C:\Users\daurd\Downloads\YouTube\ASP NET Core Web API\Practice\08\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.1\Tweetbook.genruntimeconfig.cache
+C:\Users\daurd\Downloads\YouTube\ASP NET Core Web API\Practice\08\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.1\Tweetbook.csprojAssemblyReference.cache
+C:\Users\daurd\Downloads\YouTube\ASP NET Core Web API\Practice\10\Tweetbook\Tweetbook\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\daurd\Downloads\YouTube\ASP NET Core Web API\Practice\10\Tweetbook\Tweetbook\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\daurd\Downloads\YouTube\ASP NET Core Web API\Practice\10\Tweetbook\Tweetbook\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\daurd\Downloads\YouTube\ASP NET Core Web API\Practice\10\Tweetbook\Tweetbook\bin\Debug\netcoreapp2.1\Tweetbook.deps.json
+C:\Users\daurd\Downloads\YouTube\ASP NET Core Web API\Practice\10\Tweetbook\Tweetbook\bin\Debug\netcoreapp2.1\Tweetbook.runtimeconfig.json
+C:\Users\daurd\Downloads\YouTube\ASP NET Core Web API\Practice\10\Tweetbook\Tweetbook\bin\Debug\netcoreapp2.1\Tweetbook.runtimeconfig.dev.json
+C:\Users\daurd\Downloads\YouTube\ASP NET Core Web API\Practice\10\Tweetbook\Tweetbook\bin\Debug\netcoreapp2.1\Tweetbook.dll
+C:\Users\daurd\Downloads\YouTube\ASP NET Core Web API\Practice\10\Tweetbook\Tweetbook\bin\Debug\netcoreapp2.1\Tweetbook.pdb
+C:\Users\daurd\Downloads\YouTube\ASP NET Core Web API\Practice\10\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.1\Tweetbook.csprojAssemblyReference.cache
+C:\Users\daurd\Downloads\YouTube\ASP NET Core Web API\Practice\10\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.1\Tweetbook.csproj.CoreCompileInputs.cache
+C:\Users\daurd\Downloads\YouTube\ASP NET Core Web API\Practice\10\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.1\Tweetbook.RazorAssemblyInfo.cache
+C:\Users\daurd\Downloads\YouTube\ASP NET Core Web API\Practice\10\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.1\Tweetbook.RazorAssemblyInfo.cs
+C:\Users\daurd\Downloads\YouTube\ASP NET Core Web API\Practice\10\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\daurd\Downloads\YouTube\ASP NET Core Web API\Practice\10\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.1\Tweetbook.AssemblyInfoInputs.cache
+C:\Users\daurd\Downloads\YouTube\ASP NET Core Web API\Practice\10\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.1\Tweetbook.AssemblyInfo.cs
+C:\Users\daurd\Downloads\YouTube\ASP NET Core Web API\Practice\10\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.1\Tweetbook.RazorTargetAssemblyInfo.cache
+C:\Users\daurd\Downloads\YouTube\ASP NET Core Web API\Practice\10\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.1\Tweetbook.dll
+C:\Users\daurd\Downloads\YouTube\ASP NET Core Web API\Practice\10\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.1\Tweetbook.pdb
+C:\Users\daurd\Downloads\YouTube\ASP NET Core Web API\Practice\10\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.1\Tweetbook.genruntimeconfig.cache
+C:\Users\daurd\Downloads\YouTube\ASP NET Core Web API\Practice\11\Tweetbook\Tweetbook\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\daurd\Downloads\YouTube\ASP NET Core Web API\Practice\11\Tweetbook\Tweetbook\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\daurd\Downloads\YouTube\ASP NET Core Web API\Practice\11\Tweetbook\Tweetbook\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\daurd\Downloads\YouTube\ASP NET Core Web API\Practice\11\Tweetbook\Tweetbook\bin\Debug\netcoreapp2.1\Tweetbook.deps.json
+C:\Users\daurd\Downloads\YouTube\ASP NET Core Web API\Practice\11\Tweetbook\Tweetbook\bin\Debug\netcoreapp2.1\Tweetbook.runtimeconfig.json
+C:\Users\daurd\Downloads\YouTube\ASP NET Core Web API\Practice\11\Tweetbook\Tweetbook\bin\Debug\netcoreapp2.1\Tweetbook.runtimeconfig.dev.json
+C:\Users\daurd\Downloads\YouTube\ASP NET Core Web API\Practice\11\Tweetbook\Tweetbook\bin\Debug\netcoreapp2.1\Tweetbook.dll
+C:\Users\daurd\Downloads\YouTube\ASP NET Core Web API\Practice\11\Tweetbook\Tweetbook\bin\Debug\netcoreapp2.1\Tweetbook.pdb
+C:\Users\daurd\Downloads\YouTube\ASP NET Core Web API\Practice\11\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.1\Tweetbook.csprojAssemblyReference.cache
+C:\Users\daurd\Downloads\YouTube\ASP NET Core Web API\Practice\11\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.1\Tweetbook.csproj.CoreCompileInputs.cache
+C:\Users\daurd\Downloads\YouTube\ASP NET Core Web API\Practice\11\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.1\Tweetbook.RazorAssemblyInfo.cache
+C:\Users\daurd\Downloads\YouTube\ASP NET Core Web API\Practice\11\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.1\Tweetbook.RazorAssemblyInfo.cs
+C:\Users\daurd\Downloads\YouTube\ASP NET Core Web API\Practice\11\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\daurd\Downloads\YouTube\ASP NET Core Web API\Practice\11\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.1\Tweetbook.AssemblyInfoInputs.cache
+C:\Users\daurd\Downloads\YouTube\ASP NET Core Web API\Practice\11\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.1\Tweetbook.AssemblyInfo.cs
+C:\Users\daurd\Downloads\YouTube\ASP NET Core Web API\Practice\11\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.1\Tweetbook.RazorTargetAssemblyInfo.cache
+C:\Users\daurd\Downloads\YouTube\ASP NET Core Web API\Practice\11\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.1\Tweetbook.dll
+C:\Users\daurd\Downloads\YouTube\ASP NET Core Web API\Practice\11\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.1\Tweetbook.pdb
+C:\Users\daurd\Downloads\YouTube\ASP NET Core Web API\Practice\11\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.1\Tweetbook.genruntimeconfig.cache
+C:\Users\daurd\OneDrive\Рабочий стол\Задание Самгау\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.1\Tweetbook.RazorAssemblyInfo.cache
+C:\Users\daurd\OneDrive\Рабочий стол\Задание Самгау\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.1\Tweetbook.RazorAssemblyInfo.cs
+C:\Users\daurd\OneDrive\Рабочий стол\Задание Самгау\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.1\Tweetbook.AssemblyInfoInputs.cache
+C:\Users\daurd\OneDrive\Рабочий стол\Задание Самгау\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.1\Tweetbook.AssemblyInfo.cs
+C:\Users\daurd\OneDrive\Рабочий стол\Задание Самгау\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.1\Tweetbook.dll
+C:\Users\daurd\OneDrive\Рабочий стол\Задание Самгау\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.1\Tweetbook.pdb
+C:\Users\daurd\OneDrive\Рабочий стол\Задание Самгау\Tweetbook\Tweetbook\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\daurd\OneDrive\Рабочий стол\Задание Самгау\Tweetbook\Tweetbook\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\daurd\OneDrive\Рабочий стол\Задание Самгау\Tweetbook\Tweetbook\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\daurd\OneDrive\Рабочий стол\Задание Самгау\Tweetbook\Tweetbook\bin\Debug\netcoreapp2.1\Tweetbook.deps.json
+C:\Users\daurd\OneDrive\Рабочий стол\Задание Самгау\Tweetbook\Tweetbook\bin\Debug\netcoreapp2.1\Tweetbook.runtimeconfig.json
+C:\Users\daurd\OneDrive\Рабочий стол\Задание Самгау\Tweetbook\Tweetbook\bin\Debug\netcoreapp2.1\Tweetbook.runtimeconfig.dev.json
+C:\Users\daurd\OneDrive\Рабочий стол\Задание Самгау\Tweetbook\Tweetbook\bin\Debug\netcoreapp2.1\Tweetbook.dll
+C:\Users\daurd\OneDrive\Рабочий стол\Задание Самгау\Tweetbook\Tweetbook\bin\Debug\netcoreapp2.1\Tweetbook.pdb
+C:\Users\daurd\OneDrive\Рабочий стол\Задание Самгау\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.1\Tweetbook.RazorTargetAssemblyInfo.cache
+C:\Users\daurd\OneDrive\Рабочий стол\Задание Самгау\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.1\Tweetbook.genruntimeconfig.cache
+C:\Users\daurd\OneDrive\Рабочий стол\Задание Самгау\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.1\Tweetbook.csprojAssemblyReference.cache
+C:\Users\daurd\OneDrive\Рабочий стол\Задание Самгау\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.1\Tweetbook.csproj.CoreCompileInputs.cache
+C:\Users\daurd\OneDrive\Рабочий стол\Задание Самгау\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\daurd\OneDrive\Рабочий стол\Задание Самгау\в1\Tweetbook\Tweetbook\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\daurd\OneDrive\Рабочий стол\Задание Самгау\в1\Tweetbook\Tweetbook\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\daurd\OneDrive\Рабочий стол\Задание Самгау\в1\Tweetbook\Tweetbook\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\daurd\OneDrive\Рабочий стол\Задание Самгау\в1\Tweetbook\Tweetbook\bin\Debug\netcoreapp2.1\Tweetbook.deps.json
+C:\Users\daurd\OneDrive\Рабочий стол\Задание Самгау\в1\Tweetbook\Tweetbook\bin\Debug\netcoreapp2.1\Tweetbook.runtimeconfig.json
+C:\Users\daurd\OneDrive\Рабочий стол\Задание Самгау\в1\Tweetbook\Tweetbook\bin\Debug\netcoreapp2.1\Tweetbook.runtimeconfig.dev.json
+C:\Users\daurd\OneDrive\Рабочий стол\Задание Самгау\в1\Tweetbook\Tweetbook\bin\Debug\netcoreapp2.1\Tweetbook.dll
+C:\Users\daurd\OneDrive\Рабочий стол\Задание Самгау\в1\Tweetbook\Tweetbook\bin\Debug\netcoreapp2.1\Tweetbook.pdb
+C:\Users\daurd\OneDrive\Рабочий стол\Задание Самгау\в1\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.1\Tweetbook.csprojAssemblyReference.cache
+C:\Users\daurd\OneDrive\Рабочий стол\Задание Самгау\в1\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.1\Tweetbook.csproj.CoreCompileInputs.cache
+C:\Users\daurd\OneDrive\Рабочий стол\Задание Самгау\в1\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.1\Tweetbook.RazorAssemblyInfo.cache
+C:\Users\daurd\OneDrive\Рабочий стол\Задание Самгау\в1\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.1\Tweetbook.RazorAssemblyInfo.cs
+C:\Users\daurd\OneDrive\Рабочий стол\Задание Самгау\в1\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\daurd\OneDrive\Рабочий стол\Задание Самгау\в1\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.1\Tweetbook.AssemblyInfoInputs.cache
+C:\Users\daurd\OneDrive\Рабочий стол\Задание Самгау\в1\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.1\Tweetbook.AssemblyInfo.cs
+C:\Users\daurd\OneDrive\Рабочий стол\Задание Самгау\в1\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.1\Tweetbook.RazorTargetAssemblyInfo.cache
+C:\Users\daurd\OneDrive\Рабочий стол\Задание Самгау\в1\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.1\Tweetbook.dll
+C:\Users\daurd\OneDrive\Рабочий стол\Задание Самгау\в1\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.1\Tweetbook.pdb
+C:\Users\daurd\OneDrive\Рабочий стол\Задание Самгау\в1\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.1\Tweetbook.genruntimeconfig.cache
